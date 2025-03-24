@@ -1,0 +1,33 @@
+# .gitignore 
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.toc
+*.pyz
+*.pkg
+*.txt
+*.html
+*.zip
+*.spec
+
+venv/
+.env
+
+config.json
+.env
+
+.vscode/
+.idea/
+*.swp
+
+logs/
+*.log
+*.out
+
+data/
+*.csv
+*.json
+*.db
